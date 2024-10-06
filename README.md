@@ -25,6 +25,8 @@ Here are some ideas to get you started:
 -->
 I'm a Master's student in Artificial Intelligence Systems at the University of Trento, specializing in Computer Vision. I have a strong interest in machine learning techniques applied across various domains.
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatteoMaske&layout=compact)](https://github.com/MatteoMaske/)
+
 ### About me
 I'm a fun person who enjoys working and sharing experiences with others, constantly learning and improving ourselves every day.
 
