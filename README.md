@@ -25,10 +25,24 @@ Here are some ideas to get you started:
 -->
 I'm a Master's student in Artificial Intelligence Systems at the University of Trento, specializing in Computer Vision. I have a strong interest in machine learning techniques applied across various domains.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatteoMaske&layout=compact)](https://github.com/MatteoMaske/)
-
-### About me
+## 👨‍💻 About me
 I'm a fun person who enjoys working and sharing experiences with others, constantly learning and improving ourselves every day.
 
 - 🔭 I’m currently working on Computer Vision projects
 - 🔍 I’m currently focusing on solving LeetCode problems
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatteoMaske&layout=compact)](https://github.com/MatteoMaske/)
+
+## 💻 Tech Stack
+<p align="center">
+  <img src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54" alt="Python"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" alt="PyTorch"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" alt="OpenCV"/>
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=flat&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code"/>
+  <img src="https://img.shields.io/badge/Git-F05032.svg?style=flat&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624.svg?style=flat&logo=linux&logoColor=white" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Azure-0089D6.svg?style=flat&logo=microsoft&logoColor=white" alt="Azure"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25.svg?style=flat&logo=gnu-bash&logoColor=white" alt="Bash"/>
+</p>
