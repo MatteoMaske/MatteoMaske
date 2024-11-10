@@ -26,8 +26,7 @@ Here are some ideas to get you started:
 I'm a Master's student in Artificial Intelligence Systems at the University of Trento, specializing in Computer Vision. I have a strong interest in machine learning techniques applied across various domains.
 
 ## 👨‍💻 About me
-I'm a fun person who enjoys working and sharing experiences with others, constantly learning and improving ourselves every day.
-
+- 👥 I enjoy working in a team where we can exchange experiences and skills, learning and growing together
 - 🔭 I’m currently working on Computer Vision projects
 - 🔍 I’m currently focusing on solving LeetCode problems
 
