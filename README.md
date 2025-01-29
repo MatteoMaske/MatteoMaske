@@ -30,7 +30,7 @@ I'm a Master's student in Artificial Intelligence Systems at the University of T
 - 🔭 I’m currently working on Computer Vision projects
 - 🔍 I’m currently focusing on solving LeetCode problems
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatteoMaske&layout=compact)](https://github.com/MatteoMaske/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatteoMaske&layout=compact&hide=Jupyter%20Notebook)](https://github.com/MatteoMaske/)
 
 ## 💻 Tech Stack
 <p align="center">
